@@ -29,5 +29,5 @@ And you are good to go.
 2. The data was cleaned (it was super unclean :( ) and analysed.
 
 3. Then a Linear Regression model was built on top of it which had 0.92 R2_score.
-4. 
-5. This project was given the form of an website built on Flask where we used the Linear Regression model to perform predictions.
+
+4. This project was given the form of an website built on Flask where we used the Linear Regression model to perform predictions.
